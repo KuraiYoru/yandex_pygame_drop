@@ -1,0 +1,3 @@
+pygame==2.1.0
+pygame-menu==4.2.0
+Pillow==8.4.0
